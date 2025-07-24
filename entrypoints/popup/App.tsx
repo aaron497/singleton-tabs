@@ -40,7 +40,7 @@ export default function Popup() {
 
   return (
     <div className="p-4 w-80">
-      <h1 className="text-xl font-bold mb-4">Single Tab Domains</h1>
+      <h3 className="text-xl font-bold mb-4">Single Tab Domains</h3>
 
       <div className="flex gap-2 mb-4">
         <input
